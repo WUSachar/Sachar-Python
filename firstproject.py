@@ -30,5 +30,6 @@ brca1 = open('BRCA1_BIC_Download_12122014_clinically_important.txt')
 csv_brca1 = csv.reader(brca1)
 for row in csv_brca1:
     for item in row:
-    if
+
+
 
